@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+  
+/* navbar */
+  
+.navbar-nav{
+    margin-right: 0px !important;
+    padding-right: 100px;
+}
+  
+.navbar{
+    background-color:black;
+    color:#0a193d !important;
+    width: 100%;
+    position: fixed;
+}
+  
+.nav-item a{
+    color:white !important;
+    font-weight: 10px;
+    text-align: center;
+}
+  
+.nav-item{
+    padding-left: 5px;
+}
+  
+.navbar-brand{
+    color: white !important;
+    width: 3%;
+    height: 3%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+}
+.maintxt {position: relative;}
+.maintxt > img, .overlay-text {
+    position: absolute;
+
+
+}
+
+.of {
+    object-fit: cover;
+}
+
+.onam
+{
+    width: 100%;
+    padding-top: 4%;
+}
+
+.overlay {
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    font-size: 40px; font-weight: bolder; color: black;
+}
+#coolest {
+    position: absolute;
+    top: 170%;
+    left: 60%;
+    font-size: 40px; font-weight: bolder; color: white;
+}
+#navbar button{
+    color: white !important;
+}
+  
+/* banner */
+  
+#banner-container{
+    background-color: #0a193d;
+    color: white !important;
+    padding-top: 0px;
+    padding-bottom: 20px;
+      
+}
+  
+#banner-row img{
+    max-width: 1400px;
+    height: auto;
+    display: block;
+}
+  
+#banner-row h3, p{
+    text-align: center;
+}
+  
+#banner-col{
+    padding-left: 0px;
+}
+
+
+.img1, .img2, .img3, .img4, .img5
+{
+    width: 100%;
+    cursor: pointer;
+}
+.mainimg{
+    width: 100%;
+}
+
+
+
+/* service */
+#service{
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+
+#service-container
+{
+    margin-left: 0px;
+}  
+
+
+
+#service h1{
+    padding-bottom: 70px;
+}
+  
+
+  
+#social{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+  
+#social h1{
+    padding-bottom: 70px;
+}
+#social1 h1{
+    color: darkgray;
+
+}
+  
+  
+#social-row{
+    flex-direction: row;
+}
+  
+
+
+#banner-container{
+    background-color:white;
+    color:#0a193d !important;
+}
+
+/* footer */
+  
+.mb-3{
+  padding-top: 10px;
+}
+  
+  
